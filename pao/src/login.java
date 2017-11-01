@@ -88,15 +88,17 @@ public class login extends javax.swing.JFrame {
         jLabel4.setOpaque(true);
         getContentPane().add(jLabel4);
         jLabel4.setBounds(40, 50, 400, 140);
+
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/depositphotos_89101818-stock-photo-watercolor-seamless-pattern-background-sketch.jpg"))); // NOI18N
         getContentPane().add(jLabel3);
-        jLabel3.setBounds(0, 0, 970, 760);
+        jLabel3.setBounds(0, 0, 650, 770);
 
         setSize(new java.awt.Dimension(498, 527));
         setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButtonAcessarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonAcessarActionPerformed
-        // TODO add your handling code here:
+
     }//GEN-LAST:event_jButtonAcessarActionPerformed
 
     private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField1ActionPerformed

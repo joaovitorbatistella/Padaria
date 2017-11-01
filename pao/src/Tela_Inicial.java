@@ -82,7 +82,7 @@ public class Tela_Inicial extends javax.swing.JFrame {
         setSize(new java.awt.Dimension(1300, 759));
         setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
-
+  
     private void jMenuItem1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem1ActionPerformed
         // TODO add your handling code here:
         c_Produtos obj=new c_Produtos();
